@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Knorl
+- 👀 I’m interested in anime and python.
+- 🌱 I’m currently learning python
+- 📫 How to reach me: sneakydist@gmail.com
